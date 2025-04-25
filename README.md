@@ -24,7 +24,7 @@ provided-directory-path/
 ```
 
 # Dependencies
-1. [Go programming language (v1.24.1 or later).](https://go.dev/doc/install).
+1. [Go programming language (v1.24.1 or later)](https://go.dev/doc/install).
 2. [git](https://git-scm.com/downloads).
 3. [cobra library](https://github.com/spf13/cobra).
 
